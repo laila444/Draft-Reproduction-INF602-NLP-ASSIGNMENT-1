@@ -1,5 +1,5 @@
 **ANLP-Assignment 1**
-.....................
+.....................,
 In this assignment we are required to reproduce results from base NLP research paper.
 
 In this assignment1 I used BERT and BOW to make it easier for me when working on assignment 2.
