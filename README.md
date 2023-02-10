@@ -1,6 +1,23 @@
-# Emotion Classification in Short Messages
+ANLP-Assignment 1
+In this assignment we are required to reproduce results from base NLP research paper.
 
-Multi-class sentiment analysis problem to classify texts into five emotion categories: joy, sadness, anger, fear, neutral. A fun weekend project to go through different text classification techniques. This includes dataset preparation, traditional machine learning with scikit-learn, LSTM neural networks and transfer learning using BERT (tensorflow keras).
+In this assignment1 I used BERT and BOW to make it easier for me when working on assignment 2.
+
+This project has 4 Jupyter notebooks. Please note that you need to open them in order to avoid any errors:
+
+The preferred order is as follows:
+
+1- bert
+
+2- cnn
+
+3- lstm
+
+4- traditional_ml
+
+hint: keep bert running all time when opening the other notebooks since it has the main coding of the data train. It may slow down your PC. however, if it get stopped at the middle of processing, errors will occur.
+
+Thank you for your patience :D
 
 # Datasets
 
